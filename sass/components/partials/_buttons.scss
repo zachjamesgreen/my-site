@@ -1,0 +1,31 @@
+// =========================================
+// Buttons
+// =========================================
+
+.hide {
+	a {
+		opacity: 0;
+		transition: opacity 1s;
+		-webkit-transition: opacity 1s;
+		-moz-transition: opacity 1s;
+	}
+}
+
+.reveal, .back-to-top {
+	a {
+		opacity: 1;
+		display: block;
+		position: fixed;
+		color: $white;
+		background-color: rgba($black, 0.7);
+		text-decoration: none;
+		float: right;
+		right: 1em;
+		bottom: 1em;
+		padding: 1em 1.25em;
+		z-index: 2;
+		transition: opacity 1s;
+		-webkit-transition: opacity 1s;
+		-moz-transition: opacity 1s;
+	}	
+}

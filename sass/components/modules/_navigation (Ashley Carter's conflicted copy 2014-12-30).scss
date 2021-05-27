@@ -1,0 +1,44 @@
+// =========================================
+// Navigation
+// =========================================
+
+nav {
+	margin-top: 2em;
+	text-align: center;
+	@include breakpoint($x-medium) {
+		margin-top: 1em;
+	}
+	ul {
+		display: inline-block;
+		transform: translateY(0%);
+		transition: transform .5s;
+		-webkit-transition: transform .5s;
+		-moz-transition: transform .5s;
+		@include breakpoint($x-medium) {
+			float: right;
+		}
+		li {
+			display: inline-block;
+			margin-right: 1em;
+			a {
+				color: white;
+				text-decoration: none;
+			}
+		}
+	}
+}
+
+// Navigation css transitions
+
+nav {
+	opacity: 0;
+	transform: translateY(10%);
+	transition: opacity 1s, transform 1s;
+	-webkit-transition: opacity 1s, transform 1s;
+	-moz-transition: opacity 1s, transform 1s;
+}
+
+nav.ready {
+	opacity: 1;
+	transform: translateY(0%);
+}

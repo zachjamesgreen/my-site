@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 73.9 1024 620.3" enable-background="new 0 73.9 1024 620.3" xml:space="preserve">
+<rect x="25.2" y="73.9" opacity="0.6" fill="#28282D" width="998.7" height="620.3"/>
+<rect y="102.5" fill="#E0E0E0" width="992.6" height="104.6"/>
+<g>
+	<g id="close">
+		<g>
+			<circle fill="#D92E2B" cx="21.4" cy="123.9" r="6.5"/>
+		</g>
+	</g>
+	<g id="minimize">
+		<g>
+			<circle fill="#D8D94B" cx="45.7" cy="123.9" r="6.5"/>
+		</g>
+	</g>
+	<g id="expand">
+		<g>
+			<circle fill="#78C36E" cx="68" cy="123.9" r="6.5"/>
+		</g>
+	</g>
+	<g id="address_bar">
+		<g>
+			<path fill="#FFFFFF" d="M976.3,150.9H110c-3.1,0-5.6,2.5-5.6,5.6v24.3c0,3.1,2.5,5.6,5.6,5.6h866.4c3.1,0,5.6-2.5,5.6-5.6v-24.3
+				C981.9,153.4,979.4,150.9,976.3,150.9z"/>
+		</g>
+	</g>
+	<g id="back__x26__forward_btns">
+		<g>
+			<path fill="#F4F4F4" d="M14.9,156.5v24.3c0,3.1,2.5,5.6,5.6,5.6h27.9v-35.4H20.5C17.4,150.9,14.9,153.4,14.9,156.5z M82,150.9
+				H52.2v35.4H82c3.1,0,5.6-2.5,5.6-5.6v-24.3C87.6,153.4,85.1,150.9,82,150.9z"/>
+		</g>
+	</g>
+	<g id="arrow_forward">
+		<g>
+			<polygon fill="#C7C6C6" points="63.4,162.1 63.4,177 63.4,177 76.4,169.5 			"/>
+		</g>
+	</g>
+	<g id="arrow_back">
+		<g>
+			<polygon fill="#C7C6C6" points="24.3,169.5 37.2,177 37.2,177 37.2,162.1 			"/>
+		</g>
+	</g>
+</g>
+<rect y="207.3" fill="#404047" width="992.6" height="486.8"/>
+<rect x="114.3" y="160.4" fill="none" width="110.4" height="19.8"/>
+<text transform="matrix(1 0 0 1 114.3408 176.3423)" fill="#6D6E71" font-family="'OpenSans'" font-size="21.0873">localhost://</text>
+<rect x="2.4" y="231" fill="none" width="45.5" height="443.4"/>
+<text transform="matrix(1 0 0 1 36.6484 245.415)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">1</text>
+<text transform="matrix(1 0 0 1 36.6484 273.8832)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">2</text>
+<text transform="matrix(1 0 0 1 36.6484 302.351)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">3</text>
+<text transform="matrix(1 0 0 1 36.6484 330.8188)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">4</text>
+<text transform="matrix(1 0 0 1 36.6484 359.2866)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">5</text>
+<text transform="matrix(1 0 0 1 36.6484 387.7548)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">6</text>
+<text transform="matrix(1 0 0 1 36.6484 416.2226)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">7</text>
+<text transform="matrix(1 0 0 1 36.6484 444.6904)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">8</text>
+<text transform="matrix(1 0 0 1 36.6484 473.1581)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">9</text>
+<text transform="matrix(1 0 0 1 25.2612 501.6259)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">10</text>
+<text transform="matrix(1 0 0 1 25.2612 530.0938)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">11</text>
+<text transform="matrix(1 0 0 1 25.2612 558.5615)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">12</text>
+<text transform="matrix(1 0 0 1 25.2612 587.0293)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">13</text>
+<text transform="matrix(1 0 0 1 25.2612 615.498)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">14</text>
+<text transform="matrix(1 0 0 1 25.2612 643.9658)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">15</text>
+<text transform="matrix(1 0 0 1 25.2612 672.4336)" fill="#FFFFFF" font-family="'DroidSansMono'" font-size="18.9786">16</text>
+<rect x="70.4" y="229.9" fill="none" width="890.2" height="448.3"/>
+<text transform="matrix(1 0 0 1 70.4678 246.7124)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417">&lt;!DOCTYPE html&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 275.1806)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417">&lt;html lang=”en”&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 303.6484)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417">&lt;head&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 332.1162)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417" letter-spacing="28"> </text>
+<text transform="matrix(1 0 0 1 112.4316 332.1162)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417">&lt;meta charset=”UTF-8”&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 360.5839)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417" letter-spacing="28"> </text>
+<text transform="matrix(1 0 0 1 112.4316 360.5839)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417">&lt;meta name=”viewport” content=”width=device-width” /&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 389.0517)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417" letter-spacing="28"> </text>
+<text transform="matrix(1 0 0 1 112.4316 389.0517)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417">&lt;title&gt;</text>
+<text transform="matrix(1 0 0 1 205.4268 389.0517)" fill="#1FAD94" font-family="'DroidSansMono'" font-size="22.1417">Zach Green Codes</text>
+<text transform="matrix(1 0 0 1 418.0923 389.0517)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417">&lt;/title&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 417.5195)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417" letter-spacing="28"> </text>
+<text transform="matrix(1 0 0 1 112.4316 417.5195)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417">&lt;link rel=”stylesheet” href=”main.css”&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 445.9873)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417">&lt;/head&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 474.456)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417">&lt;body&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 502.9238)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417" letter-spacing="28"> </text>
+<text transform="matrix(1 0 0 1 112.4316 502.9238)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417">&lt;header&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 531.3916)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417" letter-spacing="28">  </text>
+<text transform="matrix(1 0 0 1 154.501 531.3916)" fill="#D8DDE2" font-family="'DroidSansMono'" font-size="22.1417">&lt;h1&gt;</text>
+<text transform="matrix(1 0 0 1 207.6411 531.3916)" fill="#E3DDAF" font-family="'DroidSansMono'" font-size="22.1417">Hello! My name is Zachary Green and I love to code.</text>
+<text transform="matrix(1 0 0 1 885.1768 531.3916)" fill="#D8DCE1" font-family="'DroidSansMono'" font-size="22.1417">&lt;/h1&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 559.8593)" fill="#BAC5CD" font-family="'DroidSansMono'" font-size="22.1417" letter-spacing="28">  </text>
+<text transform="matrix(1 0 0 1 154.501 559.8593)" fill="#D8DCE1" font-family="'DroidSansMono'" font-size="22.1417">&lt;p&gt;</text>
+<text transform="matrix(1 0 0 1 194.3559 559.8593)" fill="#E3DDAF" font-family="'DroidSansMono'" font-size="22.1417">Check out my work below and get in touch if you like </text>
+<text transform="matrix(1 0 0 1 70.4678 588.3271)" fill="#E3DDAF" font-family="'DroidSansMono'" font-size="22.1417" letter-spacing="28">   </text>
+<text transform="matrix(1 0 0 1 196.4648 588.3271)" fill="#E3DDAF" font-family="'DroidSansMono'" font-size="22.1417">what you see.</text>
+<text transform="matrix(1 0 0 1 369.1699 588.3271)" fill="#D8DCE1" font-family="'DroidSansMono'" font-size="22.1417">&lt;/p&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 616.7949)" fill="#BAC5CD" font-family="'DroidSansMono'" font-size="22.1417" letter-spacing="28">  </text>
+<text transform="matrix(1 0 0 1 154.501 616.7949)" fill="#D8DCE1" font-family="'DroidSansMono'" font-size="22.1417">&lt;p&gt;</text>
+<text transform="matrix(1 0 0 1 194.3559 616.7949)" fill="#E3DDAF" font-family="'DroidSansMono'" font-size="22.1417">Thank you!</text>
+<text transform="matrix(1 0 0 1 327.2061 616.7949)" fill="#D8DCE1" font-family="'DroidSansMono'" font-size="22.1417">&lt;/p&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 645.2626)" fill="#BAC5CD" font-family="'DroidSansMono'" font-size="22.1417" letter-spacing="28"> </text>
+<text transform="matrix(1 0 0 1 112.4316 645.2626)" fill="#D8DCE1" font-family="'DroidSansMono'" font-size="22.1417">&lt;/header&gt;</text>
+<text transform="matrix(1 0 0 1 70.4678 673.7305)" fill="#D8DCE1" font-family="'DroidSansMono'" font-size="22.1417" letter-spacing="28"> </text>
+<text transform="matrix(1 0 0 1 112.4316 673.7305)" fill="#D8DCE1" font-family="'DroidSansMono'" font-size="22.1417">&lt;section class=”skills”&gt;</text>
+</svg>

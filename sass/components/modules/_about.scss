@@ -1,0 +1,57 @@
+// =========================================
+// About Section
+// =========================================
+
+.about {
+	display: block;
+	width: 100%;
+	padding: 2em 0;
+	color: white;
+	background-color: $about-background-color;
+	border-bottom: 15px solid $light-grey;
+	.inner {
+		@include flexbox;
+		@include flexbox-vertical-orient;
+		display: -webkit-box;
+		margin: 0 auto;
+		height: 100%;
+		text-align: center;
+		@include breakpoint($medium) {
+			@include flexbox;
+			@include flexbox-align-center;
+			padding-left: 3em;
+			justify-content: center;
+			-webkit-justify-content: center;
+			text-align: left;
+		}
+	}
+}
+
+.about-text {
+	width: 100%;
+	-webkit-box-ordinal-group: 2;
+  -moz-box-ordinal-group: 2;
+  box-ordinal-group: 2;
+	@include breakpoint($medium) {
+		width: 50%;
+		float: left;
+		padding-right: 1em;
+	}
+	h2, p {
+		line-height: 2em;
+	}
+}
+
+.about img {
+	width: 85%;
+	max-width: 350px;
+	margin-bottom: 1em;
+	@include breakpoint($medium) {
+		width: 100%;
+		margin: 0;
+	}
+	@include breakpoint($x-medium) {
+		float: right;
+		padding: 3em 0;
+	}
+}

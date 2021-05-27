@@ -1,0 +1,29 @@
+// =========================================
+// Skills Section
+// =========================================
+
+.skills {
+	width: 100%;
+	text-align: center;
+	padding-top: 5em;
+	padding-bottom: 7em;
+	background-color: #F8F8F8;
+	h2 {
+		color: $dark-blue;
+		margin-bottom: 1em;
+	}
+	li {
+		display: inline-block;
+		margin: 0 1.5em;
+	}
+}
+
+.skill-icons {
+	margin-left: auto;
+	margin-right: auto;
+	i {
+		display: block;
+		width: 85px;
+		height: 113px;
+	}
+}

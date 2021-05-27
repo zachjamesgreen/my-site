@@ -1,0 +1,93 @@
+// =========================================
+// Header Styles
+// =========================================
+
+.intro {
+	background-color: $header-background-color;
+	display: block;
+	border-bottom: 15px solid #C0C0C0;
+	height: auto;
+	.container {
+		width: 80%;
+		max-width: 900px;
+		padding-top: 2em
+	}
+	a {
+		text-decoration: none;
+	}
+	h1 {
+		font-size: ms(1.5);
+		text-align: center;
+		transition: font-size .5s;
+		-webkit-transition: font-size .5s;
+		-moz-transition: font-size .5s;
+		@include breakpoint($x-medium) {
+			float: left;
+			font-size: ms(2);
+		}
+	}
+}
+
+// CSS header img transitions
+
+.intro {
+	img {
+		display: block;
+		max-width: 900px;
+		margin: 2em auto 0 auto;
+		padding-top: 2em;
+
+		opacity: 0;
+		transform: translateY(10%);
+		transition: opacity 1s, transform 1s;
+		-webkit-transition: opacity 1s, transform 1s;
+		-moz-transition: opacity 1s, transform 1s;
+	}
+}
+
+.intro.no-js {
+	img {
+		opacity: 1;
+	}
+}
+
+img.ready {
+	display: block;
+	opacity: 1;
+	transform: translateY(0%);
+}
+
+// Sticky Header
+.header {
+	background-color: $header-background-color;
+	position: fixed;
+	width: 100%;
+	z-index: 2;
+	padding-bottom: 2em;
+}
+
+.sticky {
+	background-color: darken($header-background-color, 5%);
+	border-bottom: 5px solid darken($header-background-color, 8%);
+	transition: border-bottom .5s, background-color .5s;
+	-webkit-transition: border-bottom .5s, background-color .5s;
+	-moz-transition: border-bottom .5s, background-color .5s;
+	h1 {
+		font-size: 1.75em;
+		transition: font-size .5s;
+		-webkit-transition: font-size .5s;
+		-moz-transition: font-size .5s;
+	}
+	nav {
+		ul {
+			transform: translateY(-50%);
+			transition: transform .5s;
+			-webkit-transition: transform .5s;
+			-moz-transition: transform .5s;
+		}
+	}
+}
+
+
+
+
